@@ -9,6 +9,7 @@ npm install -g @ionic/cli-plugin-proxy
 npm install --save-dev --save-exact typescript@latest
 npm install --save-dev --save-exact ionic@latest
 npm install --save-dev --save-exact @ionic/app-scripts@latest
+npm install --save-dev @ionic/lab
 
 # Packages
 npm install --save chart.js
